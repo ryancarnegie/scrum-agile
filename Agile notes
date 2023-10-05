@@ -1,8 +1,42 @@
 Every sprint has velocity
 
 
-The Planning Onion
+Story Points
+------------------
+Probably the most commonly used estimating unit among agile estimating teams globally today.
+  Name is derived from agile teams commonly expressing requirements as "user stories".
+Based on a combinationn of size and complexity of the work
+Unitless but numerically relevant estimates
+  A 10-point user story is expected to take twice as long as a 5-point user story
 
+
+Three Key Advantages
+Estimating in story points
+  Forces the use of relative estimating
+    Studies have shown that we are better at this *(comparison estimating)
+
+Planning Poker for Estimating
+* An iterative approach to estimating, loosely based on wideband Delphi (Rand Corp)
+* Steps
+  * Each estimator is given a deck of cards, each card has a valid estimate
+  * Pick a "Keystone" and assign a number
+  * Customer/Product owner then reads a story and it is discussed briefly
+  * Each estimator selects a card that is his or her estimate in relation to the keystone
+  * Cards are turned over so all can see them
+  * Discuss differences
+  * Re-estimate until estimates converge
+
+Planning Poker - an example using the fibonacci sequence
+1, 2, 3, 5, 8, 13, 20
+
+
+
+
+
+
+
+The Planning Onion
+------------------
 Strategy
 Portfolio
 Product
