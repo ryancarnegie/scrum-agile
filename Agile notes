@@ -42,6 +42,15 @@ Iteration
 Daily
 
 
+Agile Charter                        Vision, Roadmap, Release Plan
+Courses | Grading | Registration     Theme
+As an instructor, I wantt to manage my grades in the LMS
+... to calculate grades based on weighted averages
+        put weighted criteria on screen
+        add weighting critera to database
+... to import grades from other sources/systems
+        create mapping table
+        install import API
 
 
 
