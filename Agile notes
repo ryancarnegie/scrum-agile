@@ -32,9 +32,6 @@ Planning Poker - an example using the fibonacci sequence
 
 
 
-
-
-
 The Planning Onion
 ------------------
 Strategy
@@ -43,3 +40,9 @@ Product
 Release
 Iteration
 Daily
+
+
+
+
+
+
