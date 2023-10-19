@@ -1,8 +1,41 @@
+
+Scrum Planning
+--------------
+Product Backlog
+Product Roadmap
+Technical Roadmap
+
+Epics are estimated in scrum planning
+
+Product Backlog - What is this? 
+User Stories are created here.
+Prioritize and estimate what we have. 
+
+Then the Product Roadmap
+View of first release, then tentative releases
+We look at what user stories we need for a first release
+We prioritize the most important items. 
+
+Release 2 in product roadmap
+Might prioritize features at this depth based on target roadmap release.
+
+Technical Roadmap
+What do we need?
+  Technical architecture
+  data architecture - modeling, need databases
+  security infrastructure
+
+
+
+Three deliverables that we focus on 
+
 Every sprint has velocity
 
 
 Story Points
 ------------------
+
+
 Probably the most commonly used estimating unit among agile estimating teams globally today.
   Name is derived from agile teams commonly expressing requirements as "user stories".
 Based on a combinationn of size and complexity of the work
